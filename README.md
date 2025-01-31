@@ -33,7 +33,7 @@ Les plateformes concurrentes principales sont :
 ---
 
 ## 🎨 Charte graphique et ergonomique
-![Charte](images/Shart.png)
+![Charte](images/shart.png)
 ### 🖼️ Logo
 ![Logo VibeShot](images/logo.png)
 ![VibeShot](images/vibs.png)
