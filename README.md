@@ -44,13 +44,7 @@ Les polices utilisées sont :
 - **Poppins**
 - **Roboto**
 
-### 🎨 Couleurs
-**Mode clair** :  
-- Fond : `#fff`  
-- Texte : `#1e293b`  
-- Boutons : `#38b6ff`  
-
-**Mode sombre** :  
+### 🎨 Couleurs  
 - Fond : `#000`  
 - Texte : `#D9D9D9`  
 - Boutons : `#38b6ff`
@@ -83,5 +77,46 @@ Le projet sera officiellement lancé en **mai 2025**.
 - **Paramètres** : Gérer le compte (déconnexion, suppression du compte).
 
 ---
+## Technologies utilisées
 
+### 1. Frontend
+- **React.js** : Pour une interface utilisateur dynamique et réactive.
+- **Tailwind CSS** : Pour un design responsive et moderne.
+- **Sass** : Préprocesseur CSS permettant une gestion plus flexible et modulaire des styles, avec des variables, des mixins, des fonctions, et des imbrications, facilitant ainsi l'évolutivité du design.
+
+### 2. Backend
+- **Laravel** : Framework PHP pour la gestion du backend et des API.
+- **MySQL** : Base de données relationnelle pour stocker les données utilisateur et les publications.
+
+### 3. Outils de développement
+- **Git** : Système de contrôle de version pour suivre et gérer les modifications du code.
+- **GitHub** : Plateforme de gestion de code source en ligne pour la collaboration et le déploiement du projet.
+- **Jira** : Outil de gestion de projet pour la planification, le suivi des tâches et la gestion des workflows.
+
+---
+
+## Timeline du projet VibeShot
+
+#### **Janvier 2025 : Planification et Cahier des charges**
+- **Dernière semaine** : Utilisation de **Jira** pour la planification des tâches et suivi du projet et Réalisation du cahier des charges.
+
+#### **Février 2025 : Conception et maquettage**
+- **Semaine 1** : Conception UML (diagrammes de cas d’utilisation, diagrammes de classe).
+- **Semaine 2** : Création des maquettes.
+- **Semaine 3-4** : Développement de la base de données, modélisation et implémentation des schémas de données.
+
+#### **Mars 2025 : Développement frontend et backend**
+- **Semaine 1-3** : Développement du frontend.
+- **Semaine 3-4** : Développement du backend.
+
+#### **Avril 2025 : Finalisation et tests**
+- **Semaine 1-3** : Finalisation du développement frontend et backend.
+- **Semaine 4** : Tests de l’application.
+
+#### **Mai 2025 : Lancement**
+- Lancement officiel de la plateforme.
+
+---
+
+## Réalisé par Safaa Ettalhi
 
